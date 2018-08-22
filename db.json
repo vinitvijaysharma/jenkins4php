@@ -1,0 +1,18 @@
+{
+      "entries": [
+          {
+              "id": "e7903097-fbf7-4d96-b5b7-6b13330d3dea",
+              "created_at": "2018-08-22T05:34:52Z",
+              "completed_at": "2018-08-22T05:35:20Z",
+              "download_url": "https://platform-api.securityscorecard.io/reports/e7903097-fbf7-4d96-b5b7-6b13330d3dea/53764a34-8aed-4308-b10c-df15e8888fa3/Sacumen_Issue-List_20180822.csv",
+              "title": "Sacumen - Issue List"
+          },
+          {
+              "id": "0eb5b4cf-7fd3-425a-968f-df33ad5e13fc",
+              "created_at": "2018-08-21T22:16:20Z",
+              "completed_at": "2018-08-21T22:17:08Z",
+              "download_url": "https://platform-api.securityscorecard.io/reports/0eb5b4cf-7fd3-425a-968f-df33ad5e13fc/ebca747b-e4e5-47e3-9098-309e9bdfe50f/Sacumen_Issue-List_20180821.csv",
+              "title": "Sacumen - Issue List"
+          }
+      ]
+}
